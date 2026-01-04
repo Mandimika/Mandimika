@@ -20,7 +20,7 @@ enterprise and backbone environments.
 
 ---
 
-## 🎓 Certifications (Selected Highlights)
+## 🎓 Professional Certifications
 - 🟢 **Oracle Cloud Infrastructure 2025 – Multicloud Architect Professional**
 - 🟢 **Oracle Cloud Infrastructure 2025 – DevOps Professional**
 - 🟢 **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
